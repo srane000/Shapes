@@ -1,0 +1,2 @@
+# Shapes
+This project is intended to show Java's class hierarchy using various two-dimensional and three-dimensional shapes. The heirarchy extends classes/interfaces from Java's API and defines new abstract and concrete classes. We are given six classes and we use one test class if the code works or not. We also have a log file that contains ID, name of the shape, its color, dimensions and description.
